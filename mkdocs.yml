@@ -113,6 +113,5 @@ plugins:
 
 nav:
   - 简介: index.md
-  - 过程:
-      - Tips: config/Tips/index.md
-      - test: config/Tips/test.md
+  - Tips:
+      - Test: config/Tips/test.md
