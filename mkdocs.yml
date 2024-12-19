@@ -8,7 +8,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: 
+    property: G-SW1CP6YXTR
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/MoGuangYu/Surfing
