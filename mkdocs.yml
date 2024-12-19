@@ -106,6 +106,7 @@ plugins:
           site_name: "mihomo docs"
           nav_translations:
             简介: Introduction
+            测试：Test
 
 
   - git-revision-date-localized:
