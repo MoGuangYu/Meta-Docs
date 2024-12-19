@@ -115,4 +115,4 @@ nav:
   - 简介: index.md
   - 测试:
       - Tips: config/Tips/index.md
-      - test: config/Tips/test.md
+        - test: config/Tips/test.md
