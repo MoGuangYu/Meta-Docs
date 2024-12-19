@@ -113,3 +113,4 @@ plugins:
 
 nav:
   - 简介: index.md
+  - Tips：config/Tips.md
