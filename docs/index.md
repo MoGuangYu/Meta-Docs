@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-Surfing 是一个开源项目，旨在简化在 Android 设备上使用 Clash 服务的安装和配置。它主要用于在 Magisk 或 KernelSU 环境中运行，支持多种代理模式，包括 TCP 和 UDP 的透明代理（TPROXY）以及混合模式代理。  
+Surfing 是一个开源项目，旨在简化在 Android 设备上实现软路由服务的安装和配置。它主要用于在 Magisk 或 KernelSU 环境中运行，支持多种代理模式，包括 TCP 和 UDP 的透明代理（TPROXY）以及混合模式链式代理。  
 
 ## 主要特点
 
@@ -17,4 +17,4 @@ Surfing 是一个开源项目，旨在简化在 Android 设备上使用 Clash �
 - **环境要求**：用户需要在具有 root 权限的 Android 设备上安装 Magisk 或 KernelSU，以便使用 Surfing 模块。安装后，用户需根据相关文档进行配置，以确保模块正常运行。
 - **备份建议**：在使用 Surfing 之前，建议用户备份设备数据和设置，以防止意外情况导致的数据丢失或设备损坏
   
-旨在为用户提供便捷的网络解决方案的工具，适合希望在 Android 设备上实现软路由。
+旨在为用户提供便捷的网络解决方案。
