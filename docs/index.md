@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
 ---
+![Tips](assets/Surfing Magisk.png)  
 
 Surfing 是一个开源项目，旨在简化在 Android 设备上实现软路由服务的安装和配置。它主要用于在 Magisk 或 KernelSU 环境中运行，支持多种代理模式，包括 TCP 和 UDP 的透明代理（TPROXY）以及混合模式链式代理。  
 
