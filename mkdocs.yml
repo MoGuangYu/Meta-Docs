@@ -103,7 +103,7 @@ plugins:
           default: false
           locale: en
           name: English
-          site_name: "mihomo docs"
+          site_name: "Surfing Docs"
           nav_translations:
             简介: Introduction
 
