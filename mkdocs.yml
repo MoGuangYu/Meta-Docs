@@ -106,7 +106,6 @@ plugins:
           site_name: "mihomo docs"
           nav_translations:
             简介: Introduction
-            测试：Test
 
 
   - git-revision-date-localized:
@@ -114,5 +113,5 @@ plugins:
 
 nav:
   - 简介: index.md
-  - 测试：
-    - Tips：config/Tips/index.md
+  - 测试:
+      - Tips: config/Tips/index.md
