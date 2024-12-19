@@ -1,14 +1,14 @@
 site_name: Surfing
 repo_url: https://github.com/MoGuangYu/Surfing
 repo_name: MoGuangYu/Surfing
-copyright: Copyright &copy 2024 Surfing
+copyright: Copyright &copy 2023 Surfing
 edit_uri: "https://github.com/MoGuangYu/Meta-Duocs/blob/main/docs/"
 dev_addr: "127.0.0.1:11451"
 extra:
   generator: false
   analytics:
     provider: google
-    property: G-1BJ0XH0RSM
+    property: 
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/MoGuangYu/Surfing
