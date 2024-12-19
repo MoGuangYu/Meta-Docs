@@ -114,4 +114,5 @@ plugins:
 nav:
   - 简介: index.md
   - Tips:
+      - Ps: config/Tips/Ps.md
       - Test: config/Tips/test.md
