@@ -7,4 +7,4 @@ hide:
 ![Tips](assets/Surfing Magisk.png)  
 
 ## 主要特点
-旨在为用户提供便捷的网络解决方案
+旨在为提供更便捷的网络解决方案的工具🛠️
