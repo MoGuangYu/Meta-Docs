@@ -9,8 +9,3 @@ hide:
 ## 主要特点
 旨在为提供更便捷的网络解决方案的工具🛠️
 > 仅供学习和研究之用，禁止任何违法、滥用或侵权的行为。
-
-# 江西渣女👍🏻
-- [黄江环城南路](https://surl.amap.com/dBrGJjG1bakt)
-- 严小金
-- wxid_ttrzk6crzxne22
