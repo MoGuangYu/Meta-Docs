@@ -1,0 +1,20 @@
+{% if page.meta.comments or config.extra.giscus %}
+<div id="giscus-comments" style="margin-top: 2rem;">
+  <script src="https://giscus.app/client.js"
+          data-repo="{{ config.extra.giscus.script.repo }}"
+          data-repo-id="{{ config.extra.giscus.script.repo_id }}"
+          data-category="{{ config.extra.giscus.script.category }}"
+          data-category-id="{{ config.extra.giscus.script.category_id }}"
+          data-mapping="{{ config.extra.giscus.script.mapping }}"
+          data-strict="{{ config.extra.giscus.script.strict | lower }}"
+          data-reactions-enabled="{{ config.extra.giscus.script.reactions_enabled | lower }}"
+          data-emit-metadata="{{ config.extra.giscus.script.emit_metadata | lower }}"
+          data-input-position="{{ config.extra.giscus.script.input_position }}"
+          data-theme="{{ config.extra.giscus.script.theme }}"
+          data-lang="{{ config.extra.giscus.script.lang }}"
+          data-loading="{{ config.extra.giscus.script.loading }}"
+          crossorigin="anonymous"
+          async>
+  </script>
+</div>
+{% endif %}
