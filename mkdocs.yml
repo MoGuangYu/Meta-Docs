@@ -1,10 +1,11 @@
-      loading: lazy
+---
 site_name: Surfing
 repo_url: https://github.com/MoGuangYu/Surfing
 repo_name: MoGuangYu/Surfing
 copyright: Copyright &copy 2023 Surfing
 edit_uri: "https://github.com/MoGuangYu/Meta-Duocs/blob/main/docs/"
 dev_addr: "127.0.0.1:11451"
+
 extra:
   generator: false
   analytics:
@@ -40,7 +41,6 @@ theme:
     - search.highlight
     - navigation.tracking
     - navigation.instant
-    # - navigation.expand
     - navigation.path
     - navigation.indexes
     - navigation.tracking
@@ -48,16 +48,13 @@ theme:
     - navigation.tabs
     - navigation.sections
     - toc.follow
-   # - content.action.edit
     - content.code.copy
     - content.code.select
-    # - toc.integrate
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/link
         name: Switch to light mode
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
@@ -65,7 +62,6 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
@@ -93,7 +89,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.magiclink
-
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -123,8 +118,6 @@ plugins:
           site_name: "Surfing Docs"
           nav_translations:
             简介: Introduction
-
-
   - git-revision-date-localized:
       locale: zh
 
