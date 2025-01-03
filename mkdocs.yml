@@ -18,20 +18,6 @@ extra:
       link: https://t.me/+vvlXyWYl6HowMTBl
     - icon: material/file-document
       link: https://github.com/MoGuangYu/Meta-Docs
-  giscus:
-    script:
-      repo: "MoGuangYu/Meta-Docs"
-      repo_id: "R_kgDONfkEsQ"
-      category: "Announcements"
-      category_id: "DIC_kwDONfkEsc4ClsnT"
-      mapping: "pathname"
-      strict: false
-      reactions_enabled: true
-      emit_metadata: true
-      input_position: "top"
-      theme: "preferred_color_scheme"
-      lang: "zh-CN"
-      loading: "lazy"
 
 theme:
   name: material
@@ -118,6 +104,7 @@ plugins:
           site_name: "Surfing Docs"
           nav_translations:
             简介: Introduction
+  
   - git-revision-date-localized:
       locale: zh
 
